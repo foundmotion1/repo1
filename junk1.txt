@@ -1,1 +1,2 @@
 This is junk1.txt
+This is a new line added to junk1
